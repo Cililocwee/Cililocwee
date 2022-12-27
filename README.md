@@ -1,6 +1,6 @@
 # 👋 Hi folks!
 
-I'm a frontend developer from the United States currently located in Vietnam. I'm really into learning new frameworks and exploring new libraries. While, I mainly work in vanilla Javascript, in 2022 I fell in love with React and Typescript. I spend all my free time working on polishing my skills and learning new things. 
+I'm a frontend developer from the United States currently located in Vietnam. I'm really into learning new frameworks and exploring new libraries. While I mainly work in vanilla Javascript, in 2022 I fell in love with React and Typescript. I spend all my free time working on polishing my skills and learning new things. 
 
 Currently, I'm working on a few personal projects -- the repos of which can all be accessed here!
 
