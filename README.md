@@ -1,12 +1,10 @@
 # 👋 Hi folks!
 
-I'm a frontend developer from the United States currently located in Vietnam. I'm really into learning new frameworks and exploring new libraries. While I mainly work in vanilla Javascript, in 2022 I fell in love with React and Typescript. I spend all my free time working on polishing my skills and learning new things. 
-
-Currently, I'm working on a few personal projects -- the repos of which can all be accessed here!
+I'm a frontend developer from the United States currently located in Vietnam. I'm really into learning new frameworks and exploring new libraries. While I mainly work in in the Frontend, I've lately been working on a few backend projects as well. I spend all my free time working on polishing my skills and adding new tools to my toolbox. 
 
 ## In brief
 
-- I'm a frontend developer from the US
+- I'm a web developer from the US
 - I’m currently spending an intense amount of time on personal projects
 - I’m looking to collaborate on anything related to Javascript or Web Development
 
@@ -26,6 +24,8 @@ To get in touch with me, please check out my LinkedIn profile [here](www.linkedi
   
   ### I'm familiar with:
   - NodeJS
+  - Express
+  - MongoDB
   - Python
   - Django
   - Java
@@ -37,11 +37,12 @@ To get in touch with me, please check out my LinkedIn profile [here](www.linkedi
   |English  | Native      |
   |German   | B1          |
   |Vietnamese| A2      |
-  |Japanese | A1       |
+  |Japanese | N5       |
   
-  ## What I'm currently learning:
+  ## What I'm currently interested in:
   - Firebase best practices
-  
+  - Atlas
+  - Fullstack development
   </details>
   
 <!---
