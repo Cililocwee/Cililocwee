@@ -1,6 +1,6 @@
 # 👋 Hi folks!
 
-I'm a frontend developer from the United States currently located in Vietnam. I'm really into learning new frameworks and exploring new libraries. While I mainly work in in the Frontend, I've lately been working on a few backend projects as well. I spend all my free time working on polishing my skills and adding new tools to my toolbox. 
+I'm a frontend developer, based in Vietnam but originally from the United States. I'm a curious and adventurous person who loves learning about new frameworks and libraries. Although my main focus is on the frontend, I've recently dabbled in a few backend projects, which has been a lot of fun. When I'm not working, I spend most of my time polishing my skills and discovering new tools to add to my ever-expanding toolkit. I'm always striving to become a better developer and produce high-quality work that I can be proud of.
 
 ## In brief
 
@@ -8,27 +8,34 @@ I'm a frontend developer from the United States currently located in Vietnam. I'
 - I’m currently spending an intense amount of time on personal projects
 - I’m looking to collaborate on anything related to Javascript or Web Development
 
-To get in touch with me, please check out my LinkedIn profile [here](www.linkedin.com/in/corriestroup).
-<details>
+Want to get in touch? Try my LinkedIn profile [here](www.linkedin.com/in/corriestroup).
+
+  Curious as to what's on my mind? Try my blog [here](www.corries-devblog.web.app).
+  
+  Want to check out my portfolio? Besides perusing my repos here, try my portfolio site [here](www.corrie-stroup.web.app).
+  <details>
   <summary>More details about me!</summary>
   
 ## My skills
   
-  ### I'm confident with:
+  ### I excel at:
   
-  - Javascript (LinkedIn Assessments Certified)
+  - Javascript 
   - Typescript
   - ReactJS
-  - HTML, CSS (LinkedIn Assessments Certified)
-  - Webpack
+  - HTML
+  - CSS/SCSS
+  - Tailwind CSS
+  - Vite
   
-  ### I'm familiar with:
+  ### I've worked with:
   - NodeJS
   - Express
   - MongoDB
   - Python
   - Django
   - Java
+  - Angular
   
  ## Languages
   
@@ -37,12 +44,12 @@ To get in touch with me, please check out my LinkedIn profile [here](www.linkedi
   |English  | Native      |
   |German   | B1          |
   |Vietnamese| A2      |
-  |Japanese | N5       |
+  |Japanese | N4       |
   
-  ## What I'm currently interested in:
-  - Firebase best practices
-  - Atlas
-  - Fullstack development
+  ## What I'm currently working on:
+  - Frontend rework of an API wrapper
+  - Familiarizing myself with PHP
+  - Expanding my portfolio
   </details>
   
 <!---
