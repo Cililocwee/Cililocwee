@@ -10,9 +10,9 @@ I'm a frontend developer, based in Vietnam but originally from the United States
 
 Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in/corriestroup).
 
-  Curious as to what's on my mind? Try my blog [here](https://www.corries-devblog.web.app).
+  Curious as to what's on my mind? Try my blog [here](https://corries-devblog.web.app).
   
-  Want to check out my portfolio? Besides perusing my repos here, try my portfolio site [here](https://www.corrie-stroup.web.app).
+  Want to check out my portfolio? Besides perusing my repos here, try my portfolio site [here](https://corrie-stroup.web.app).
   <details>
   <summary>More details about me!</summary>
   
