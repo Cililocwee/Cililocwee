@@ -8,11 +8,11 @@ I'm a frontend developer, based in Vietnam but originally from the United States
 - I’m currently spending an intense amount of time on personal projects
 - I’m looking to collaborate on anything related to Javascript or Web Development
 
-Want to get in touch? Try my LinkedIn profile [here](www.linkedin.com/in/corriestroup).
+Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in/corriestroup).
 
-  Curious as to what's on my mind? Try my blog [here](www.corries-devblog.web.app).
+  Curious as to what's on my mind? Try my blog [here](https://www.corries-devblog.web.app).
   
-  Want to check out my portfolio? Besides perusing my repos here, try my portfolio site [here](www.corrie-stroup.web.app).
+  Want to check out my portfolio? Besides perusing my repos here, try my portfolio site [here](https://www.corrie-stroup.web.app).
   <details>
   <summary>More details about me!</summary>
   
