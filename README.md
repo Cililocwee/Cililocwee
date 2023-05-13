@@ -47,9 +47,9 @@ Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in
   |Japanese | N4       |
   
   ## What I'm currently working on:
-  - Frontend rework of an API wrapper
-  - Familiarizing myself with PHP
-  - Expanding my portfolio
+  - My movie lookup app MovieHound
+  - Exploring animation libraries
+  - Polishing my portfolio
   </details>
   
 <!---
