@@ -1,11 +1,10 @@
 # 👋 Hi folks!
 
-I'm a frontend developer, based in Vietnam but originally from the United States. I'm a curious and adventurous person who loves learning about new frameworks and libraries. Although my main focus is on the frontend, I've recently dabbled in a few backend projects, which has been a lot of fun. When I'm not working, I spend most of my time polishing my skills and discovering new tools to add to my ever-expanding toolkit. I'm always striving to become a better developer and produce high-quality work that I can be proud of.
+I'm a frontend developer, based in Vietnam but originally from the United States. I'm a curious and adventurous person who loves learning about new frameworks and libraries. When I'm not working, I spend most of my time polishing my skills and discovering new tools to add to my ever-expanding toolkit. I'm always striving to become a better developer and produce high-quality work that I can be proud of.
 
 ## In brief
 
 - I'm a web developer from the US
-- I’m currently spending an intense amount of time on personal projects
 - I’m looking to collaborate on anything related to Javascript or Web Development
 
 Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in/corriestroup).
@@ -27,11 +26,11 @@ Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in
   - CSS/SCSS
   - Tailwind CSS
   - Vite
+  - Node.js
   
   ### I've worked with:
-  - NodeJS
-  - Express
   - MongoDB
+  - SQL/MySQL
   - Python
   - Django
   - Java
@@ -47,9 +46,8 @@ Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in
   |Japanese | N4       |
   
   ## What I'm currently working on:
-  - My movie lookup app MovieHound
-  - Exploring animation libraries
-  - Polishing my portfolio
+  - My BS degree
+  - A grade tracking app
   </details>
   
 <!---
