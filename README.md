@@ -1,11 +1,12 @@
 # 👋 Hi folks!
 
-I'm a frontend developer, based in Vietnam but originally from the United States. I'm a curious and adventurous person who loves learning about new frameworks and libraries. When I'm not working, I spend most of my time polishing my skills and discovering new tools to add to my ever-expanding toolkit. I'm always striving to become a better developer and produce high-quality work that I can be proud of.
+I'm Corrie, an American Full Stack Developer based in Vietnam! I've been a teacher for 10 years and I've pivoted into remote development roles over the last 2 years. I'm a curious and adventurous person who loves learning about new frameworks and libraries. When I'm not working, I spend most of my time polishing my skills and discovering new tools to add to my ever-expanding toolkit. I'm always striving to become a better developer and produce high-quality work that I can be proud of.
 
 ## In brief
 
 - I'm a web developer from the US
-- I’m looking to collaborate on anything related to Javascript or Web Development
+- I’m looking to collaborate!
+- I'm looking for the perfect OSS to call home
 
 Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in/corriestroup).
 
@@ -35,6 +36,7 @@ Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in
   - Django
   - Java
   - Angular
+  - PHP
   
  ## Languages
   
@@ -46,7 +48,7 @@ Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in
   |Japanese | N4       |
   
   ## What I'm currently working on:
-  - My BS degree
+  - My BS in Computer Science
   - A grade tracking app
   </details>
   
