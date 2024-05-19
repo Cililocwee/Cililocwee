@@ -1,6 +1,6 @@
 # 👋 Hi folks!
 
-I'm Corrie, an American Full Stack Developer based in Vietnam! I've been a teacher for 10 years and I've pivoted into remote development roles over the last 2 years. I'm a curious and adventurous person who loves learning about new frameworks and libraries. When I'm not working, I spend most of my time polishing my skills and discovering new tools to add to my ever-expanding toolkit. I'm always striving to become a better developer and produce high-quality work that I can be proud of.
+I'm Corrie, an Full Stack Developer from the US currently in Vietnam! I've been a teacher for 10 years and I've pivoted into remote development roles over the last 2 years. I'm a curious and adventurous person who loves learning about new frameworks and libraries. When I'm not working, I spend most of my time polishing my skills and discovering new tools to add to my ever-expanding toolkit. I'm always striving to become a better developer and produce high-quality work that I can be proud of.
 
 ## In brief
 
