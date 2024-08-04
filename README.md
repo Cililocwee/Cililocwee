@@ -1,16 +1,14 @@
 # 👋 Hi folks!
 
-I'm Corrie, a Full Stack Developer from the US currently in Vietnam! I've been a teacher for 10 years and I've pivoted into remote development roles over the last 2 years. I'm a curious and adventurous person who loves learning about new frameworks and libraries. When I'm not working, I spend most of my time polishing my skills and discovering new tools to add to my ever-expanding toolkit. I'm always striving to become a better developer and produce high-quality work that I can be proud of.
+I'm Corrie, a Full Stack Developer from the US! I was a teacher for 10 years and I've been working as a remote devoloper for the past 2 years. I'm a curious and adventurous person who loves learning about new frameworks and libraries. When I'm not working, I spend most of my time busying myself with some side project or hanging out with my wife and 2 cats. I'm always striving to become a better developer and learn new things that, while not always useful, I find interesting.
 
 ## In brief
 
 - I'm a web developer from the US
-- I’m looking to collaborate!
-- I'm looking for the perfect OSS to call home
+- I’m a lifelong student
+- I'm somewhat of a homebody (when I'm not hiking)
 
 Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in/corriestroup).
-
-  Curious as to what's on my mind? Try my blog [here](https://corries-devblog.web.app).
   
   Want to check out my portfolio? Besides perusing my repos here, try my portfolio site [here](https://corrie-stroup.web.app).
   <details>
@@ -49,7 +47,7 @@ Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in
   
   ## What I'm currently working on:
   - My BS in Computer Science
-  - A grade tracking app
+  - An aggregate ranking app 
   </details>
   
 <!---
