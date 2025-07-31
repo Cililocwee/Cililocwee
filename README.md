@@ -1,44 +1,42 @@
-# 👋 Hola!
+# 🚀 **Hey there!**  
 
-I'm Corrie, a software engineer currently focusing on Typescript and Dart. I started off in education for about a decade and made the transition to tech -- there's some overlap in the projects I'm working on, so I'm glad to be able to keep that experience relevant. I'm a curious and adventurous person who loves learning about new frameworks and libraries. When I'm not working, I spend most of my time away from the computer reading or hanging out with my wife and 2 cats. 
+I’m **Corrie**, a **full-stack engineer** and **project manager** with a passion for building scalable web apps, mentoring teams, and bridging tech with education. Former educator turned coder, I love leveraging my background to create intuitive, human-centered software. Currently splitting my time between **TypeScript/React**, **Python**, and **Agile leadership** while prepping for my next adventures.  
 
-## In brief
+When I’m not coding, you’ll find me:  
+📖 **Reading** (fantasy or tech blogs),  
+🗣️ **Practicing Japanese**, or  
+🐈 **Being outsmarted by my two cats**.  
 
-- I'm a software engineer from the US
-- I’m a lifelong student
-- I'm somewhat of a homebody (when I'm not hiking)
+### **⚡ Quick Facts**  
+- 🌍 **Remote-first** engineer with global team experience (US, Vietnam, Venezuela).  
+- 🎓 **Degrees in CompSci + MBA** (AI for Business) → Tech + biz fluency.  
+- 🧠 **Lifelong learner** (currently: AI Integration, Japanese).  
 
-Want to get in touch? Try my LinkedIn profile [here](https://www.linkedin.com/in/corriestroup).
+### **🛠️ Tech Toolkit**  
+**Frontend:** React (3+ yrs), TypeScript, Tailwind, Vite  
+**Backend:** Python (Flask), PHP, REST APIs, MySQL  
+**Mobile:** Flutter (cross-platform)  
+**DevOps:** Docker, CI/CD, Kubernetes  
+**Leadership:** Agile/Scrum, Jira, Asana, cross-functional team management  
 
-  <details>
-  <summary>More details about me!</summary>
-  
-## My skills
-  
-  ### I excel at:
-  
-  - Javascript 
-  - Typescript
-  - ReactJS
-  
-  ### I've worked with:
-  - MongoDB
-  - SQL/MySQL
-  - Python
-  - Django
-  - Dart 
-  
- ## Languages
-  
-  |Language | Familiarity |
-  |---------|-------------|
-  |English  | Native      |
-  |German   | B1          |
-  |Vietnamese| A2      |
-  |Japanese | N4       |
-  </details>
-  
-<!---
-Cililocwee/Cililocwee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages:** English (Native), Japanese (N4), German (B1), Vietnamese (A2)  
+
+---
+
+### **📫 Let’s Connect!**  
+- **LinkedIn**: [Let’s nerd out](https://www.linkedin.com/in/corriestroup)  
+
+<details>  
+<summary>✨ Even more about me...</summary>  
+
+### **🔍 Deep Dive**  
+- **Recent Wins**:  
+  - Built + shipped a Flutter app for agricultural tech (AI-integrated backend).  
+  - Mentored junior devs while balancing PM duties at an edutech startup.  
+
+- **Current Obsessions**:  
+  - Japan’s tech scene.  
+  - Performance tuning + AI tools.  
+  - **Cat-proofing my home office** (ongoing battle).  
+
+</details>  
